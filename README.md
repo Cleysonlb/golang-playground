@@ -13,3 +13,8 @@ Boilerplate to use Golang with Docker
 
 - Start project run command `docker-compose up`
 - Open http://localhost:3030/
+
+## ToDo
+
+- [ ] Add live reload
+- [ ] Write tests to practice
