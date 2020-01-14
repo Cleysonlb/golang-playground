@@ -1,6 +1,6 @@
 # golang-playground
 
-![Go Docker](go_docker.png)
+<img src="go_docker.png" alt="Go Docker" width="250" height="250" />
 
 Boilerplate to use Golang with Docker
 
