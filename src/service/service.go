@@ -4,13 +4,13 @@ import "fmt"
 import "net/http"
 import "encoding/json"
 
-type objeto struct {
+type object struct {
 	Name string
 	Age int
 }
 
 func Service(write http.ResponseWriter) {
-	person := objeto{
+	person := object{
 		Name:  "Cleyson",
 		Age: 27,
 	}
